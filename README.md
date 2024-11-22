@@ -12,7 +12,7 @@ Leveraging cutting-edge tools and technologies, we will use Three.js[^1] to deve
 and streamline user access. Additionally, Blender[^2] will be utilized to create and optimize custom 3D assets that enrich 
 the module's visual and interactive appeal.
 <p align="center"> 
-     <img src="https://github.com/user-attachments/assets/3e1a259c-2b35-4c8e-a420-16a90adcc124" alt="House proto" alt="" width="450">
+     <img src="https://github.com/user-attachments/assets/3e1a259c-2b35-4c8e-a420-16a90adcc124" alt="House proto" alt="" width="600">
 </p>
 
 
