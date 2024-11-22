@@ -1,4 +1,7 @@
 # Habitat For Humanity Learning Management System (Phase 3)
+<p align="center"> 
+     <img src="https://github.com/user-attachments/assets/11158c16-9981-4745-b81d-9f8b54b01c60" alt="Wack-A-Shoot" alt="" width="250">
+</p>
 
 In Phase 3, we will design and implement an interactive module aimed at enhancing the learning experience by 
 allowing learners to test their knowledge through engaging and dynamic activities. This module will incorporate 
@@ -14,6 +17,7 @@ the module's visual and interactive appeal.
 This phase will focus on combining creativity and functionality to deliver an engaging, learner-focused solution that 
 aligns with Habitat for Humanity New Brunswick’s educational goals. By implementing this module, we aim to provide learners 
 with a hands-on, interactive way to assess their knowledge while fostering a deeper connection to the program's content.
+
 
 # Our dev team
 - Paul de Leon - Project Manager
