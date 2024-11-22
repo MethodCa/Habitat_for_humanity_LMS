@@ -17,6 +17,7 @@ aligns with Habitat for Humanity New Brunswick’s educational goals. By impleme
 with a hands-on, interactive way to assess their knowledge while fostering a deeper connection to the program's content.
 
 # Our dev team
+- Paul de Leon - Project Manager
 - Rosibel Useda
 - Valentina Arias
 - Sergio Rueda
