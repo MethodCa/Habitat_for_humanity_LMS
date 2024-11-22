@@ -4,9 +4,9 @@ In Phase 3, we will design and implement an interactive module aimed at enhancin
 allowing learners to test their knowledge through engaging and dynamic activities. This module will incorporate 
 elements of gamification to create an enjoyable and motivational learning environment.
 
-Leveraging cutting-edge tools and technologies, we will use Three.js to develop visually captivating and interactive 
+Leveraging cutting-edge tools and technologies, we will use Three.js[^1] to develop visually captivating and interactive 
 3D experiences. Integration with Google Classroom will ensure seamless connectivity with existing educational resources 
-and streamline user access. Additionally, [^2]Blender will be utilized to create and optimize custom 3D assets that enrich 
+and streamline user access. Additionally, Blender[^2] will be utilized to create and optimize custom 3D assets that enrich 
 the module's visual and interactive appeal.
 
 ![Screenshot 2024-11-21 at 9 25 29 PM](https://github.com/user-attachments/assets/3e1a259c-2b35-4c8e-a420-16a90adcc124)
@@ -23,4 +23,5 @@ with a hands-on, interactive way to assess their knowledge while fostering a dee
 - Pouya Pournasir
 - Peter Linton
 
+[^1]:[Three.JS](https://threejs.org/) cross-browser JavaScript library and application programming interface (API) used to create and display animated 3D computer graphics in a web browser using WebGL.
 [^2]:[Blender](https://www.blender.org/) Free and open source 3D creation suite.
