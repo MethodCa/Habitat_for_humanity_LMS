@@ -1,6 +1,6 @@
 # Habitat For Humanity Learning Management System (Phase 3)
 <p align="center"> 
-     <img src="https://github.com/user-attachments/assets/11158c16-9981-4745-b81d-9f8b54b01c60" alt="Wack-A-Shoot" alt="" width="250">
+     <img src="https://github.com/user-attachments/assets/11158c16-9981-4745-b81d-9f8b54b01c60" alt="Habitad logo" alt="" width="250">
 </p>
 
 In Phase 3, we will design and implement an interactive module aimed at enhancing the learning experience by 
@@ -11,8 +11,10 @@ Leveraging cutting-edge tools and technologies, we will use Three.js[^1] to deve
 3D experiences. Integration with Google Classroom will ensure seamless connectivity with existing educational resources 
 and streamline user access. Additionally, Blender[^2] will be utilized to create and optimize custom 3D assets that enrich 
 the module's visual and interactive appeal.
+<p align="center"> 
+     <img src="https://github.com/user-attachments/assets/3e1a259c-2b35-4c8e-a420-16a90adcc124" alt="House proto" alt="" width="450">
+</p>
 
-![Screenshot 2024-11-21 at 9 25 29 PM](https://github.com/user-attachments/assets/3e1a259c-2b35-4c8e-a420-16a90adcc124)
 
 This phase will focus on combining creativity and functionality to deliver an engaging, learner-focused solution that 
 aligns with Habitat for Humanity New Brunswick’s educational goals. By implementing this module, we aim to provide learners 
