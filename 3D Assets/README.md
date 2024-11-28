@@ -312,14 +312,27 @@
 <p><img src="https://github.com/user-attachments/assets/fce98615-8de8-4fcf-bb84-025504e9dee9" alt="" width="400" ></p>
 
 - Building_Door_Bed
+<p><img src="https://github.com/user-attachments/assets/e65aa049-9a45-43c0-aae5-88cec3451e5f" alt="" width="400" ></p>
+
 - Building_Main_Door
+<p><img src="https://github.com/user-attachments/assets/8abe3bf4-ecf5-44e2-be86-f5f05b899bd4" alt="" width="400" ></p>
+
 - Building_Toilet_Handwash
+<p><img src="https://github.com/user-attachments/assets/192ec744-4bec-42aa-9c1e-02b075fa3c5f" alt="" width="400" ></p>
+
 - Building_Toilet_seat
-<p><img src="https://github.com/user-attachments/assets/3d51f640-d5af-44bd-9cfb-46b7beaabe8f" alt="" width="400" ></p>
+<p><img src="https://github.com/user-attachments/assets/bca89971-c5d4-46b7-a534-ff16559f8c98" alt="" width="400" ></p>
 
 - Building_Toilet_Towel
+<p><img src="https://github.com/user-attachments/assets/fbb5e216-93f8-42eb-a8be-7d5e2a375753" alt="" width="400" ></p>
+
 - Building_Toilet_Washing_Sink
+<p><img src="https://github.com/user-attachments/assets/403cccee-d7fc-4137-a8f4-033f663adad7" alt="" width="400" ></p>
+
 - Extinguisher
+<p><img src="https://github.com/user-attachments/assets/e753b390-be24-43b1-aaf1-77000a9e4001" alt="" width="400" ></p>
+
+
 
 
 
