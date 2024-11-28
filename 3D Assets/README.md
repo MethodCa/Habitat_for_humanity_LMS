@@ -1,5 +1,12 @@
 # 3D Assets
 
+This asset collection includes 104 meticulously designed 3D objects, optimized for seamless integration into any visualization project. Each asset is production-ready, featuring a low polygon count and minimal material use to enhance performance and reduce draw calls. This optimization ensures smooth functionality in environments with limited GPU resources, making the collection ideal for mobile applications, VR, and AR projects.
+
+The assets are designed with a unified color palette shared across all models and utilize a single-color material. This approach ensures optimal performance by enabling GPU material instancing. Regardless of how many assets are present in the scene, the GPU is taxed only once, significantly improving efficiency and performance in compatible systems.
+
+![Screenshot 2024-11-28 at 7 52 29 PM](https://github.com/user-attachments/assets/894e1da6-a550-47aa-993e-808e013e0d21)
+
+
 - Accesories_Ball
 <p><img src="https://github.com/user-attachments/assets/add52096-2d16-4502-909d-f65cb82d48da" alt="" width="400" ></p>
 
