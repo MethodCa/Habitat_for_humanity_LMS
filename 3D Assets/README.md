@@ -9,6 +9,9 @@
 
 
 - Accesories_BBQ
+<p><img src="https://github.com/user-attachments/assets/4035ac9e-49b2-435c-982c-31135030416b" alt="" width="400" ></p>
+
+
 - Accesories_Bed_Large.002
 - Accesories_Bed_Large.006
 - Accesories_Bed_Large.007
