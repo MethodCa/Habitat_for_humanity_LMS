@@ -60,6 +60,8 @@
 - Accesories_Frame_I
 - Accesories_Fruit_Bowl
 - Accesories_Icosphere_lamp
+- Accesories_Kitchen_full.001
+  <p><img src="https://github.com/user-attachments/assets/086c01aa-3b10-43f4-a445-d33164aec5d0" alt="" width="400" ></p>
 - Accesories_Lamp.002
 - Accesories_Lamp3.005
 - Accesories_Mirror
