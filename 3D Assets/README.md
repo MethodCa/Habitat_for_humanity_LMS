@@ -20,6 +20,9 @@
 
   
 - Accesories_Bed_Large.012
+<p><img src="https://github.com/user-attachments/assets/d2ba6932-83cb-403a-af6c-d2689c4fb832" alt="" width="400" ></p>
+
+
 - Accesories_Bed_Large.018
 - Accesories_Bed_Large_B.001
 - Accesories_Bed_Large_B.004
