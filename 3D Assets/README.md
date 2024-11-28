@@ -216,17 +216,38 @@
 <p><img src="https://github.com/user-attachments/assets/9e0f14fb-c214-4698-b2d9-8c64376d9ec4" alt="" width="400" ></p>
 
 - Accesories_Photo.023
+<p><img src="https://github.com/user-attachments/assets/7e86f73c-cc3d-41b4-9653-954d235fbd3b" alt="" width="400" ></p>
 
 - Accesories_Photo.024
+<p><img src="https://github.com/user-attachments/assets/930403bd-5863-464e-9a22-fd895a3ecf9d" alt="" width="400" ></p>
+
 - Accesories_Photo.025
+<p><img src="https://github.com/user-attachments/assets/b3e60675-819b-44b5-85d1-e6f6d1a06ed4" alt="" width="400" ></p>
+
 - Accesories_Photo.026
+<p><img src="https://github.com/user-attachments/assets/9940d467-664c-426d-aad7-fb7a63c9ba88" alt="" width="400" ></p>
+
 - Accesories_pillows
+<p><img src="https://github.com/user-attachments/assets/26b7a4cf-fb20-49ca-aa2f-977236c83de8" alt="" width="400" ></p>
+
 - Accesories_pillows.001
+<p><img src="https://github.com/user-attachments/assets/2e72942c-c46c-4f7d-be97-61f86b526a7d" alt="" width="400" ></p>
+
 - Accesories_Plants_A
+<p><img src="https://github.com/user-attachments/assets/07a628dc-244d-4d3c-b248-9dbd03afb3e2" alt="" width="400" ></p>
+
 - Accesories_Plants_B
+<p><img src="https://github.com/user-attachments/assets/f8ff7620-f70e-4dda-bd91-ae0dec043d10" alt="" width="400" ></p>
+
 - Accesories_Plants_C
+<p><img src="https://github.com/user-attachments/assets/8438c58e-ec71-4f59-8a22-2af2ab37c8ca" alt="" width="400" ></p>
+
 - Accesories_Plants_D
+<p><img src="https://github.com/user-attachments/assets/984a3f69-665f-4381-9640-0520da73279c" alt="" width="400" ></p>
+  
 - Accesories_Plants_E
+<p><img src="https://github.com/user-attachments/assets/a18cfe6b-f775-4146-a938-1c682564619f" alt="" width="400" ></p>
+
 - Accesories_Sofa
 - Accesories_Sofa.005
 - Accesories_Sofa.006
