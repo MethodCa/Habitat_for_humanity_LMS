@@ -78,8 +78,16 @@
 
   
 - Accesories_Carpet.012
+<p><img src="https://github.com/user-attachments/assets/8ebd4b33-d7df-4f7c-9edf-8d1af57accd2" alt="" width="400" ></p>
+
+
 - Accesories_Carpet.017
+<p><img src="https://github.com/user-attachments/assets/92a96654-4721-4aaa-97a9-c61eefa8efb0" alt="" width="400" ></p>
+
 - Accesories_Carpet.022
+<p><img src="https://github.com/user-attachments/assets/4cf8df19-d085-489b-b463-f5e07c4485e0" alt="" width="400" ></p>
+
+
 - Accesories_Circle.008
 - Accesories_Circle.010
 - Accesories_Circle.011
