@@ -112,6 +112,8 @@
 - Building_Main_Door
 - Building_Toilet_Handwash
 - Building_Toilet_seat
+<p><img src="https://github.com/user-attachments/assets/3d51f640-d5af-44bd-9cfb-46b7beaabe8f" alt="" width="400" ></p>
+
 - Building_Toilet_Towel
 - Building_Toilet_Washing_Sink
 - Extinguisher
