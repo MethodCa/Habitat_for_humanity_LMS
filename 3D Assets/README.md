@@ -103,10 +103,10 @@
 - Accesories_Yoga
 - Bathtub
 - Building_ClosetA
-- <p><img src="https://github.com/user-attachments/assets/e9e7e324-5dcc-4824-bf54-0f69abf37468" alt="" width="400" ></p>
-
-
+<p><img src="https://github.com/user-attachments/assets/e9e7e324-5dcc-4824-bf54-0f69abf37468" alt="" width="400" ></p>
 - Building_ClosetB
+<p><img src="https://github.com/user-attachments/assets/fce98615-8de8-4fcf-bb84-025504e9dee9" alt="" width="400" ></p>
+
 - Building_Door_Bed
 - Building_Main_Door
 - Building_Toilet_Handwash
