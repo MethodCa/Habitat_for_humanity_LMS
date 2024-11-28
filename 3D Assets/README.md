@@ -103,6 +103,7 @@
 - Accesories_Yoga
 - Bathtub
 - Building_ClosetA
+- <p><img src="https://github.com/user-attachments/assets/9c5e6429-ddb7-45e9-b535-9f4141a5d6d7" alt="" width="400" ></p>
 - Building_ClosetB
 - Building_Door_Bed
 - Building_Main_Door
