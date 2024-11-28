@@ -61,7 +61,7 @@
 - Accesories_Fruit_Bowl
 - Accesories_Icosphere_lamp
 - Accesories_Kitchen_full.001
-  <p><img src="https://github.com/user-attachments/assets/ad6b2a85-a91c-430b-96c7-081e41b9c009" alt="" width="400" ></p>
+  <p><img src="https://github.com/user-attachments/assets/bb5d58f0-c918-4764-b609-3e47d936973d" alt="" width="400" ></p>
   
 - Accesories_Lamp.002
 - Accesories_Lamp3.005
