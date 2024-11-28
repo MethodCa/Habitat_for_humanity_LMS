@@ -1,9 +1,5 @@
 # 3D Assets
 
-- Accesories_Bed_C
-<p><img src="https://github.com/user-attachments/assets/d5879fbf-f7d7-4e91-9034-e0bc3c796c16" alt="" width="400" ></p>
-
-
 - Accesories_Ball
 <p><img src="https://github.com/user-attachments/assets/add52096-2d16-4502-909d-f65cb82d48da" alt="" width="400" ></p>
 
@@ -16,6 +12,9 @@
 <p><img src="https://github.com/user-attachments/assets/1679b882-53b0-417d-bbe8-405803b0b233" alt="" width="400" ></p>
 
 - Accesories_Bed_Large.006
+<p><img src="https://github.com/user-attachments/assets/b5dfcb61-9614-4170-86a3-1a1ee2ef61bd" alt="" width="400" ></p>
+
+  
 - Accesories_Bed_Large.007
 - Accesories_Bed_Large.012
 - Accesories_Bed_Large.018
