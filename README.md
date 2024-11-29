@@ -1,6 +1,6 @@
 # Habitat For Humanity Learning Management System (Phase 3)
 <p align="center"> 
-     <img src="https://github.com/user-attachments/assets/11158c16-9981-4745-b81d-9f8b54b01c60" alt="Habitad logo" alt="" width="250">
+     <img src="https://github.com/user-attachments/assets/883f8459-4523-4fd6-8042-d8b83457d758" alt="logo" alt="" width="545>
 </p>
 
 In Phase 3, we will design and implement an interactive module aimed at enhancing the learning experience by 
