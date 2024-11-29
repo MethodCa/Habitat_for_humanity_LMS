@@ -1,6 +1,6 @@
 # 3D Assets Library
 
-This asset collection includes 104 meticulously designed 3D objects, optimized for seamless integration into any visualization project. Each asset is production-ready, featuring a low polygon count and minimal material use to enhance performance and reduce draw calls. This optimization ensures smooth functionality in environments with limited GPU resources, making the collection ideal for mobile applications, VR, and AR projects.
+This asset collection includes 104 meticulously designed 3D objects, optimized for seamless integration into any visualization project. Each asset is production-ready, featuring a low polygon count and minimal material use to enhance performance. This optimization ensures smooth functionality in environments with limited GPU resources, making the collection ideal for mobile applications, VR, and AR projects.
 
 The assets are designed with a unified color palette shared across all models and utilize a single-color material. This approach ensures optimal performance by enabling GPU material instancing. Regardless of how many assets are present in the scene, the GPU is taxed only once, significantly improving efficiency and performance in compatible systems.
 
