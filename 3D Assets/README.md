@@ -1,4 +1,4 @@
-# 3D Assets
+# 3D Assets Libriary
 
 This asset collection includes 104 meticulously designed 3D objects, optimized for seamless integration into any visualization project. Each asset is production-ready, featuring a low polygon count and minimal material use to enhance performance and reduce draw calls. This optimization ensures smooth functionality in environments with limited GPU resources, making the collection ideal for mobile applications, VR, and AR projects.
 
