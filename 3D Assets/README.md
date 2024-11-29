@@ -4,6 +4,8 @@ This asset collection includes 104 meticulously designed 3D objects, optimized f
 
 The assets are designed with a unified color palette shared across all models and utilize a single-color material. This approach ensures optimal performance by enabling GPU material instancing. Regardless of how many assets are present in the scene, the GPU is taxed only once, significantly improving efficiency and performance in compatible systems.
 
+Each asset is provided in FBX format, ensuring compatibility and easy integration into any project. Additionally, a consolidated .blend file is included, compiling all the assets for seamless editing and customization in Blender. These files are conveniently organized and available in the 3D Assets folder for easy access and use.
+
 ![Screenshot 2024-11-28 at 7 52 29 PM](https://github.com/user-attachments/assets/894e1da6-a550-47aa-993e-808e013e0d21)
 
 
