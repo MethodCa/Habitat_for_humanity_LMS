@@ -24,7 +24,7 @@ camera.lookAt(0, 0, 0); // Camera looks at the center of the scene
 // Renderer Setup
 const renderer = new THREE.WebGLRenderer({ antialias: true });
 renderer.setSize(window.innerWidth, window.innerHeight);
-//renderer.setPixelRatio(window.devicePixelRatio); // Fix for high-DPI screens
+renderer.setPixelRatio(window.devicePixelRatio); // Fix for high-DPI screens
 renderer.shadowMap.enabled = true;
 renderer.shadowMap.type = THREE.PCFSoftShadowMap; // Use soft shadows
 document.body.appendChild(renderer.domElement);
