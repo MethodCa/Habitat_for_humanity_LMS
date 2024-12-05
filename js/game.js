@@ -48,7 +48,7 @@ document.body.appendChild(stats.dom);
 // Models Loading
 const loader = new GLTFLoader();
 loader.load(
-    '/house_mvp.glb', // Path to your GLB file
+    '3d_assets/house_mvp.glb', // Path to your GLB file
     (gltf) => {
         const object = gltf.scene; // Extract the scene from the loaded GLTF file
 
