@@ -9,8 +9,14 @@ const aspect = window.innerWidth / window.innerHeight;
 let isDragging = false; // Tracks if the user is currently dragging
 let previousPosition = { x: 0, y: 0 }; // Stores the previous position of the mouse or touch
 let houseModel = null; // Reference to the loaded 3D model
+let selectedObject = null // Store the object that is selected by the user
+let selectedObjectMaterial = null; // to revert it's material to original since we are selecting a new object
+let houseObjects = []; // raycaster needs a reference to all the objects for calculation
 const minZoom = 5; // Minimum camera zoom distance
 const maxZoom = 45; // Maximum camera zoom distance
+const raycaster = new THREE.Raycaster(); // Used for clicking on object; when you click somewhere, it will cast a ray that collide with an object, and return the object
+const mousePointer = new THREE.Vector2(); //Position of the mouse on the screen when a click happens
+
 
 // Scene setup
 const scene = new THREE.Scene();
@@ -34,7 +40,7 @@ const ambientLight = new THREE.AmbientLight(0xffffff, 1); // Soft ambient light
 scene.add(ambientLight);
 const directionalLight = new THREE.DirectionalLight(0xffffff, 1);
 directionalLight.position.set(5, 10, 5);
-directionalLight.castShadow = true;
+directionalLight.castShadow = true; // this is expensive 
 directionalLight.shadow.bias = -0.001;
 directionalLight.shadow.mapSize.width = 1024;
 directionalLight.shadow.mapSize.height = 1024;
@@ -55,6 +61,7 @@ loader.load(
         object.traverse((child) => {
             if (child.isMesh) {
                 // Enable shadows
+                houseObjects.push(child);
                 child.castShadow = true;
                 child.receiveShadow = true;
             }
@@ -73,7 +80,6 @@ loader.load(
 
 
 // Interaction Functions
-
 /**
  * Handles the start of a drag interaction.
  * Only activates if one finger is touching.
@@ -150,6 +156,43 @@ function adjustZoom(delta) {
     }
 }
 
+/**
+ * A mechanism to select an object when user Double-clicks (Or double-tap) on the screen
+ * The result will be a change in the object selected on the screen, it puts a golden cover on the object for highlighting
+ * @param {MouseEvent | TouchEvent} event 
+ */
+function selectObject(event) {
+
+    //revert the previous highlighted object to it's original material, if an object is selected before.
+    if(selectedObject)
+    { 
+        selectedObject.material = selectedObjectMaterial;
+    }
+    mousePointer.x = ( event.clientX / window.innerWidth ) * 2 - 1;
+    mousePointer.y = - ( event.clientY / window.innerHeight ) * 2 + 1;
+
+    raycaster.setFromCamera(mousePointer, camera); //Casts the ray from where the user selected, based on camera position
+
+    const intersects = raycaster.intersectObjects(houseObjects); //It collects all the objects that is in trajectory of the ray.
+    
+    const newObject = intersects[0].object; //We need the one closest to the ray's source, since it could be many objects where are in trajectory of the ray's line of sight.
+    const newObjectOriginalMaterial = newObject.material;
+    
+    //All meshes in an glb file share the same material, so changing the color would change all the object's color.
+    //Best way is to attach a cloned, modified version to the selected material.
+    
+    
+    const highlightMaterial = newObjectOriginalMaterial.clone();
+    highlightMaterial.emissive = new THREE.Color(0xFFD700); // set to "Golden" color
+    highlightMaterial.emissiveIntensity = 0.5;
+    newObject.material = highlightMaterial;
+
+    selectedObject = newObject;
+    selectedObjectMaterial = newObjectOriginalMaterial;
+    
+}
+
+
 // Resize Event Listener
 window.addEventListener('resize', () => {
     camera.aspect = window.innerWidth / window.innerHeight;
@@ -164,7 +207,7 @@ window.addEventListener('mouseup', endDrag, false);
 window.addEventListener('touchstart', startDrag, false);
 window.addEventListener('touchmove', drag, false);
 window.addEventListener('touchend', endDrag, false);
-
+window.addEventListener("dblclick", selectObject, false);
 /**
  * Browser Setup.
  */
