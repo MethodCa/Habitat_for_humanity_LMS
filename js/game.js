@@ -10,15 +10,15 @@ let isDragging = false; // Tracks if the user is currently dragging
 let previousPosition = { x: 0, y: 0 }; // Stores the previous position of the mouse or touch
 let houseModel = null; // Reference to the loaded 3D model
 const minZoom = 5; // Minimum camera zoom distance
-const maxZoom = 45; // Maximum camera zoom distance
+const maxZoom = 100; // Maximum camera zoom distance
 
 // Scene setup
 const scene = new THREE.Scene();
-scene.background = new THREE.Color(0x808080);
+scene.background = new THREE.Color(0x5C80A2);
 
 // Camera Setup
 const camera = new THREE.PerspectiveCamera(50, aspect, 0.1, 1000); // Field of view, aspect ratio, near, far
-camera.position.set(10, 20, 15); // Initial camera position
+camera.position.set(10, 19, 50); // Initial camera position
 camera.lookAt(0, 0, 0); // Camera looks at the center of the scene
 
 // Renderer Setup
@@ -30,14 +30,14 @@ renderer.shadowMap.type = THREE.PCFSoftShadowMap; // Use soft shadows
 document.body.appendChild(renderer.domElement);
 
 // Lighting Setup
-const ambientLight = new THREE.AmbientLight(0xffffff, 1); // Soft ambient light
+const ambientLight = new THREE.AmbientLight(0xffffff, 2); // Soft ambient light
 scene.add(ambientLight);
-const directionalLight = new THREE.DirectionalLight(0xffffff, 1);
+const directionalLight = new THREE.DirectionalLight(0xffffff, 2);
 directionalLight.position.set(5, 10, 5);
 directionalLight.castShadow = true;
-directionalLight.shadow.bias = -0.001;
-directionalLight.shadow.mapSize.width = 1024;
-directionalLight.shadow.mapSize.height = 1024;
+directionalLight.shadow.bias = -0.0001;
+//directionalLight.shadow.mapSize.width = 1024;
+//directionalLight.shadow.mapSize.height = 1024;
 scene.add(directionalLight);
 
 // Stats.js Setup
